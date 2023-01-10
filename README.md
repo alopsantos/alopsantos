@@ -1,7 +1,7 @@
 Hi 👋 My name is Anderson Lopes
 ===============================
 
-* ✉️  You can contact me at [anderson@lopscorp.com](mailto:anderson@lopscorp.com)
+* ✉️  You can contact me at [anderson_lops@hotmail.com](mailto:anderson_lops@hotmail.com)
 
 <a href="https://www.github.com/alopsantos" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/alopsantos?logo=github&style=for-the-badge&color=ec4899&labelColor=1c1917" /></a>
